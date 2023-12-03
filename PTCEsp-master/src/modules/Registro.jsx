@@ -14,7 +14,7 @@ function Registro() {
         ref3="/registro"
       />
      <div className="flex flex-row w-full">
-     <div className="w-3/5" style="height: 300px">
+     <div className="w-3/5" style="100%" >
         <img
           src="https://www.prensa-latina.cu/wp-content/uploads/2023/05/turismo-salvador.jpg"
           alt="image 1"
