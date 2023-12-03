@@ -35,27 +35,27 @@ const CardList = ({ titles, images }) => {
 
 const Paquetes = () => {
   const imgArray = [
-    "./src/assets/Fotos/eltiunco.jpg",
-    "./src/assets/Fotos/coate.jpg",
-    "./src/assets/Fotos/sanantonio.jpg",
-    "./src/assets/Fotos/arqueo.jpg",
-    "./src/assets/Fotos/necro.jpg",
-    "./src/assets/Fotos/agro.jpg",
-    "./src/assets/Fotos/eco.jpg",
-    "./src/assets/Fotos/etno.jpg",
-    "./src/assets/Fotos/comu.jpg",
+    "https://diarioelsalvador.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-05-at-2.06.04-PM-2.jpeg",
+    "https://turismo.sv/wp-content/uploads/2019/06/lago-suchitlan-1.jpg",
+    "https://culturaazul.com/wp-content/uploads/2019/09/Cerros-y-Monta%C3%B1as-de-El-Salvador.jpg",
+   // "./src/assets/Fotos/arqueo.jpg",
+    //"./src/assets/Fotos/necro.jpg",
+   // "./src/assets/Fotos/agro.jpg",
+   // "./src/assets/Fotos/eco.jpg",
+   // "./src/assets/Fotos/etno.jpg",
+    //"./src/assets/Fotos/comu.jpg",
   ];
 
   const titleArray = [
-    "Playas",
-    "Lagos y lagunas",
-    "Montañas",
-    "Sitios arqueológicos",
-    "Necroturismo",
-    "Agroturismo",
-    "Ecoturismo",
-    "Etnoturismo",
-    "Turismo comunitario",
+    //"Playas",
+    //"Lagos y lagunas",
+    //"Montañas",
+    //"Sitios arqueológicos",
+    //"Necroturismo",
+    //"Agroturismo",
+    //"Ecoturismo",
+    //"Etnoturismo",
+    //"Turismo comunitario",
   ];
 
   return (

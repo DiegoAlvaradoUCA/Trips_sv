@@ -37,7 +37,7 @@ function Index() {
           <div className="bg-[url('https://turismo.sv/wp-content/uploads/2019/06/lago-suchitlan-1.jpg')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">LAGOS Y LAGUNAS</h1>
-            <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
+            <p className="pb-2 text-[#55595c]">El Salvador cuenta con hermosos paisajes, y uno de los paisajes que puedes disfrutar de lagos y lagunas de este hermoso país.</p>
             <div>
             <Link to="/mas"><input type="submit" value="Ver más" className="py-3 px-7 bg-[#070707] border-[#010000] hover:bg-black text-white hover:cursor-pointer"/></Link>
             </div>
@@ -47,7 +47,7 @@ function Index() {
           <div className="bg-[url('https://culturaazul.com/wp-content/uploads/2019/09/Cerros-y-Monta%C3%B1as-de-El-Salvador.jpg')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">Montañas</h1>
-            <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
+            <p className="pb-2 text-[#55595c]">Si te gusta la adrenalina, las montañas de nuestro país son la mejor opción para que puedas practicar este hermoso deporte.</p>
             <div>
               <Link to="/mas"><input type="submit" value="Ver más" className="py-3 px-7 bg-[#070707] border-[#010000] hover:bg-black text-white hover:cursor-pointer"/></Link>
             </div>
