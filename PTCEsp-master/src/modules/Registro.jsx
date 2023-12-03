@@ -10,8 +10,8 @@ function Registro() {
         ref1="/"
         item2="Volver"
         ref2="/"
-        item3="Registro"
-        ref3="/registro"
+        //item3=""
+        //ref3="/"
       />
      <div className="flex flex-row w-full">
      <div className="w-3/5">
