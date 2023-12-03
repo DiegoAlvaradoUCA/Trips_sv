@@ -41,7 +41,7 @@
         </div>
         <div className="h-full w-screen relative">
           <img
-            src="https://elsalvador.travel/system/wp-content/uploads/2023/07/LagoCoatepeque01.jpg"
+            src="https://blog.uber-cdn.com/cdn-cgi/image/width=2160,quality=80,onerror=redirect,format=auto/wp-content/uploads/2019/03/Playa-El-Tunco.png"
             alt="image 2"
             className="h-full w-full object-cover"
           />
