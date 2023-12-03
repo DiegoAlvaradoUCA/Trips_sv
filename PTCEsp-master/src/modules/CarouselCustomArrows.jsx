@@ -27,7 +27,7 @@
       >
         <div className="h-full w-screen relative">
           <img
-            src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/3a/59.jpg"
+            src="https://www.visitcentroamerica.com/wp-content/uploads/2017/08/ver-centroamerica-el-salvador-sitio-arquologico-tazumal-04.jpg"
             alt="image 1"
             className="h-full w-full object-cover"
           />
@@ -41,7 +41,7 @@
         </div>
         <div className="h-full w-screen relative">
           <img
-            src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/3a/59.jpg"
+            src=""
             alt="image 2"
             className="h-full w-full object-cover"
           />
@@ -55,7 +55,7 @@
         </div>
         <div className="h-full w-screen relative">
           <img
-            src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/3a/59.jpg"
+            src=""
             alt="image 3"
             className="h-full w-full object-cover"
           />
