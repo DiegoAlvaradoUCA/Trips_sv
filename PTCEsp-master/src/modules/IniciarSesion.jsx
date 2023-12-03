@@ -13,12 +13,12 @@ function IniciarSesion() {
         ref3="/registro"
       />
      <div className="flex flex-row w-full">
-     <div className="w-3/5">
-      
+     <div className="w-3/5" >
         <img
           src=""
           alt="image 1"
           className="h-full w-full object-cover"
+          
         />
       </div>
       <div className="w-2/5 pr-8 m-auto">
