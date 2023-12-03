@@ -10,7 +10,7 @@ function Header(h){
                     <Link to={h.ref1} className="my-auto"><li ><h2 className="uppercase text-[rgba(255,255,255,0.5)] text-sm hover:text-white">{h.item1}</h2></li></Link>
                     <Link to={h.ref2} className="my-auto"><li ><h2 className="uppercase text-[rgba(255,255,255,0.5)] text-sm hover:text-white">{h.item2}</h2></li></Link>
                     <Link to={h.ref3} className="my-auto"><li ><h2 className="uppercase text-[rgba(255,255,255,0.5)] text-sm hover:text-white">{h.item3}</h2></li></Link>
-                    <Link to={h.ref4} className="my-auto"><li ><h2 className="uppercase text-[rgba(255,255,255,0.5)] text-sm hover:text-white">{h.item4}</h2></li></Link>
+  
                     <Link to={h.ref5} className="my-auto"><li ><h2 className="uppercase text-[rgba(255,255,255,0.5)] text-sm hover:text-white">{h.item5}</h2></li></Link>
                 </ul>
             </div>
