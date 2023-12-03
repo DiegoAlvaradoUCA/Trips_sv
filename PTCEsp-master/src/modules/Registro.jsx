@@ -14,7 +14,7 @@ function Registro() {
         //ref3="/"
       />
      <div className="flex flex-row w-full" >
-     <div className="w-3/5" style={{ width: '800px' }}>
+     <div className="w-3/5" style={{ width: '300px' }}>
         <img
           style={{ width: '100%' }}
           src="https://cdn-icons-png.flaticon.com/512/3534/3534139.png"
