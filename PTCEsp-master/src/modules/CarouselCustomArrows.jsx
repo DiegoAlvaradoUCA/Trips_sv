@@ -50,7 +50,7 @@
               activeSlide === 1 ? "opacity-100" : "opacity-0"
             } transition-opacity duration-500`}
           >
-            Lago de Coatepeque
+            El Tunco
           </h1>
         </div>
         <div className="h-full w-screen relative">
