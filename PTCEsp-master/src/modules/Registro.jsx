@@ -16,7 +16,7 @@ function Registro() {
      <div className="flex flex-row w-full">
      <div className="w-3/5">
         <img
-          src="./src/assets/Images/tripsv.jpeg"
+          src="https://www.prensa-latina.cu/wp-content/uploads/2023/05/turismo-salvador.jpg"
           alt="image 1"
           className="h-full w-full object-cover"
         />
