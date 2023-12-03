@@ -18,7 +18,7 @@ function Registro() {
         <img
 
 
-          style={{ width: '100%' }}
+          style={{ width: '50%' }}
           src="https://cdn-icons-png.flaticon.com/512/3534/3534139.png"
           alt="image 1"
           className="h-full w-full object-cover"
