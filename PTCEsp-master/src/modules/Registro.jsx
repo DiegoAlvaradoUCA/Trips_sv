@@ -14,6 +14,14 @@ function Registro() {
         //ref3="/"
       />
      <div className="flex flex-row w-full" >
+     <div className="w-3/5" >
+        <img
+          src=""
+          alt="image 1"
+          className="h-full w-full object-cover"
+          
+        />
+      </div>
       <div className="w-2/5 pr-8 m-auto">
         <h1 className="uppercase text-2xl tracking-widest m-auto text-center">Ingresar Datos</h1>
         <form action="" method="" className="py-10 m-auto">
