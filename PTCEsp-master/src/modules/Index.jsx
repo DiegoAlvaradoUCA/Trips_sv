@@ -24,7 +24,7 @@ function Index() {
       </div>
       <div className="flex flex-row gap-6 m-auto py-10 overflow-hidden">
         <div className="w-full min-h-[25rem] border border-gray-300 rounded-md">
-          <div className="bg-[url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fjuanlievano.com%2Fplayas%2Fplayas-de-la-libertad-en-el-salvador%2F&psig=AOvVaw3RVMVvFKxUjCBe9OHNZml9&ust=1701663870181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiFuKG28oIDFQAAAAAdAAAAABAH')] h-1/2 bg-cover "></div>
+          <div className="bg-[url('')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">PLAYAS</h1>
             <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
@@ -34,7 +34,7 @@ function Index() {
           </div>
         </div>
         <div className="w-full min-h-[25rem] border border-gray-300 rounded-md">
-          <div className="bg-[url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fpassporterapp.com%2Fes%2Fblog%2Fel-salvador%2Flago-coatepeque-que-ver%2F&psig=AOvVaw3074AkB2FVLNoFRnNF7JpH&ust=1701663911028000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDD-ba28oIDFQAAAAAdAAAAABAY')] h-1/2 bg-cover "></div>
+          <div className="bg-[url('')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">LAGOS Y LAGUNAS</h1>
             <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
@@ -44,7 +44,7 @@ function Index() {
           </div>
         </div>
         <div className="w-full min-h-[25rem] border border-gray-300 rounded-md" >
-          <div className="bg-[url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistorico.elsalvador.com%2Fhistorico%2F208834%2F7-espectaculares-montanas-y-volcanes-en-el-salvador.html&psig=AOvVaw31PoUnnNcqBX1YDY0KzLFE&ust=1701663986859000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjaqtm28oIDFQAAAAAdAAAAABAD')] h-1/2 bg-cover "></div>
+          <div className="bg-[url('')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">Montañas</h1>
             <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
