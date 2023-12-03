@@ -35,9 +35,9 @@ const CardList = ({ titles, images }) => {
 
 const Categorias = () => {
   const imgArray = [
-    "./src/assets/Fotos/eltiunco.jpg",
-    "./src/assets/Fotos/coate.jpg",
-    "./src/assets/Fotos/sanantonio.jpg",
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.viator.com%2Fes-ES%2Ftours%2FSan-Salvador%2FDay-Trip-to-El-Tunco-Beach-from-San-Salvador%2Fd5585-6699P50&psig=AOvVaw2q5Ljwh48lLjnBSU0dvZP8&ust=1701662588713000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiHksCx8oIDFQAAAAAdAAAAABAI",
+    "https://guanacos.com/wp-content/uploads/2023/08/GUANACOS-LAGO-DE-COATEPEQUE-3.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvt--564FdI3_csIfi4SOYgkLCq8eAQaVMkFold8NHeSLYdB8Shxon6EuvNCTEpcAqV-I&usqp=CAU",
     "./src/assets/Fotos/arqueo.jpg",
     "./src/assets/Fotos/necro.jpg",
     "./src/assets/Fotos/agro.jpg",
