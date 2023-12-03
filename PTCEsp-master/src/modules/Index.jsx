@@ -44,7 +44,7 @@ function Index() {
           </div>
         </div>
         <div className="w-full min-h-[25rem] border border-gray-300 rounded-md" >
-          <div className="bg-[url('"></div>
+          <div className="bg-[url('https://culturaazul.com/wp-content/uploads/2019/09/Cerros-y-Monta%C3%B1as-de-El-Salvador.jpg')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">Montañas</h1>
             <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>

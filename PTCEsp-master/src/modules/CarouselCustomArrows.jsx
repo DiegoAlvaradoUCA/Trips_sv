@@ -27,7 +27,7 @@
       >
         <div className="h-full w-screen relative">
           <img
-            src="https://www.cultura.gob.sv/wp-content/uploads/2023/05/TAZUMAL.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/8/88/ES_Tazumal_06_2011_2280.jpg"
             alt="image 1"
             className="h-full w-full object-cover"
           />
