@@ -27,7 +27,7 @@
       >
         <div className="h-full w-screen relative">
           <img
-            src="https://www.visitcentroamerica.com/wp-content/uploads/2017/08/ver-centroamerica-el-salvador-sitio-arquologico-tazumal-04.jpg"
+            src="https://www.cultura.gob.sv/wp-content/uploads/2023/05/TAZUMAL.jpg"
             alt="image 1"
             className="h-full w-full object-cover"
           />
@@ -41,7 +41,7 @@
         </div>
         <div className="h-full w-screen relative">
           <img
-            src=""
+            src="https://elsalvador.travel/system/wp-content/uploads/2023/07/LagoCoatepeque01.jpg"
             alt="image 2"
             className="h-full w-full object-cover"
           />
@@ -55,7 +55,7 @@
         </div>
         <div className="h-full w-screen relative">
           <img
-            src=""
+            src="https://www.istu.gob.sv/wp-content/uploads/2020/09/Cerro02-min-scaled.jpg"
             alt="image 3"
             className="h-full w-full object-cover"
           />
