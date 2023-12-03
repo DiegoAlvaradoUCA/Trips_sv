@@ -34,18 +34,27 @@ function Footer() {
         </div>
       </div>
       <div className="flex flex-row w-full mt-8">
-        <div className="w-full">
-          <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Facebook</h1>
-        </div>
-        <div className="w-full">
-          <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Instagram</h1>
-        </div>
-        <div className="w-full">
-          <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Twitter</h1>
-        </div>
-        <div className="w-full">
-          <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Google</h1>
-        </div>
+      <div className="w-full">
+  <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+    <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Facebook</h1>
+  </a>
+</div>
+<div className="w-full">
+  <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+    <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Instagram</h1>
+  </a>
+</div>
+<div className="w-full">
+  <a href="https://twitter.com/?lang=es" target="_blank" rel="noopener noreferrer">
+    <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">X</h1>
+  </a>
+</div>
+<div className="w-full">
+  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+    <h1 className="text-xl uppercase text-white hover:underline text-center py-4 border border-[#55595c]">Google</h1>
+  </a>
+</div>
+
       </div>
     </div>
   );
