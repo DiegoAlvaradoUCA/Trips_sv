@@ -13,13 +13,14 @@ function Registro() {
         //item3=""
         //ref3="/"
       />
-     <div className="flex flex-row w-full">
-     <div className="w-3/5">
+     <div className="flex flex-row w-full" >
+     <div className="w-3/5" style={{ width: '500px' }}>
         <img
+          style={{ width: '100%' }}
           src="https://cdn-icons-png.flaticon.com/512/3534/3534139.png"
           alt="image 1"
           className="h-full w-full object-cover"
-          style={{ width: '50px' }}
+          
         />
       </div>
       <div className="w-2/5 pr-8 m-auto">
