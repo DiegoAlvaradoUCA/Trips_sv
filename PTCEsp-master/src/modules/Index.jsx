@@ -44,7 +44,7 @@ function Index() {
           </div>
         </div>
         <div className="w-full min-h-[25rem] border border-gray-300 rounded-md" >
-          <div className="bg-[url('https://d2t54f3e471ia1.cloudfront.net/ricardosiman/multimedia/galerias/fotos/1203220_270.jpg')] h-1/2 bg-cover "></div>
+          <div className="bg-[url('https://estaticos-cdn.prensaiberica.es/clip/691c523d-936e-4124-b26a-0aebdd4f1ed3_source-aspect-ratio_default_0.jpg')] h-1/2 bg-cover "></div>
           <div className="h-1/2 px-4">
             <h1 className="uppercase text-xl text-center py-2 font-medium text-[#55595c]">Montañas</h1>
             <p className="pb-2 text-[#55595c]">El Salvador es uno de los destinos de Centroamérica que cuenta con hermosas playas que se adaptan a todo tipo de turistas.</p>
