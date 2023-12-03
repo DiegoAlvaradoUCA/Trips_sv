@@ -50,7 +50,7 @@
               activeSlide === 1 ? "opacity-100" : "opacity-0"
             } transition-opacity duration-500`}
           >
-            El Salvador del Mundo
+            Lago de Coatepeque
           </h1>
         </div>
         <div className="h-full w-screen relative">
@@ -64,7 +64,7 @@
               activeSlide === 2 ? "opacity-100" : "opacity-0"
             } transition-opacity duration-500`}
           >
-            San Antonio
+            Cerro Verde
           </h1>
         </div>
       </Carousel>
