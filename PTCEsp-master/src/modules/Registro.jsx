@@ -16,7 +16,7 @@ function Registro() {
      <div className="flex flex-row w-full" >
      <div className="w-3/5" >
         <img
-          src=""
+          src="https://firebasestorage.googleapis.com/v0/b/dailypost-73d3c.appspot.com/o/Imagen%20de%20WhatsApp%202023-12-03%20a%20las%2017.55.40_e9e75541.jpg?alt=media&token=f7ca31c5-169b-4df7-b3b1-e7e935e60e00"
           alt="image 1"
           className="h-full w-full object-cover"
           
